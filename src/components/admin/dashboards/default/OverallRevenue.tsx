@@ -51,7 +51,7 @@ export default function OverallRevenue(props: { [x: string]: any }) {
               fontWeight="500"
               mt="4px"
             >
-              Overall Revenue
+              Bruttoumsatz
             </Text>
           </Flex>
           <Flex align="center">
